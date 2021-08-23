@@ -2,9 +2,8 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  font-family: "Open Sans Condensed", sans-serif;
 }
 
 @media (prefers-reduced-motion: no-preference) {
