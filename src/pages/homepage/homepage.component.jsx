@@ -5,7 +5,6 @@ import "./homepage.styles.scss";
 
 const HomePage = () => (
   <div className="homepage">
-    <h1>Welcome to my Shop</h1>
     <Directory />
   </div>
 );
