@@ -3,7 +3,8 @@
 }
 
 body {
-  font-family: "Open Sans Condensed", sans-serif;
+  font-family: "Open Sans Condensed";
+  padding: 20px 60px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
