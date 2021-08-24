@@ -4,6 +4,7 @@
 
 body {
   font-family: "Open Sans Condensed";
+  /* font-family: "Allison", cursive; */
   padding: 20px 60px;
 }
 
@@ -30,13 +31,4 @@ a {
 
 .App-link {
   color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
